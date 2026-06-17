@@ -2,6 +2,8 @@
 
 一款專為桌面電腦設計的高效能 0243 粵語填詞工具。採用離線優先架構，提供極速搜尋體驗，隨時隨地皆可使用。
 
+<video src="./assets/cantone-search.webm" autoplay loop muted playsinline width="100%"></video>
+
 ## 📥 下載與安裝 / Downloads
 
 點擊下方按鈕即可直接下載最新版本：
