@@ -42,7 +42,7 @@
 
 <figure style="height: 400px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <video 
-    src="https://github.com/user-attachments/assets/1394b5a5-eb55-4ca9-9f99-d83b82a4dd78" 
+    src="https://github.com/user-attachments/assets/56d72caf-0971-4823-8006-fb016ed4945d" 
     autoplay 
     loop 
     muted 
