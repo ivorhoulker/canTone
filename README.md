@@ -3,19 +3,7 @@
 一款專為桌面電腦設計的高效能 0243 粵語填詞工具。採用離線優先架構，提供極速搜尋體驗，隨時隨地皆可使用。
 
 
-<figure style="height: 400px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <video 
-    src="https://github.com/user-attachments/assets/1394b5a5-eb55-4ca9-9f99-d83b82a4dd78" 
-    autoplay 
-    loop 
-    muted 
-    playsinline
-    style="height: 360px; width: auto; object-fit: contain; border-radius: 12px;"
-  ></video>
-  <figcaption align="center" style="margin-top: 8px;">
-    <i>使用 0243 聲調之搜尋介面演示。</i>
-  </figcaption>
-</figure>
+
 
 ## 📥 下載與安裝 / Downloads
 
@@ -24,7 +12,7 @@
 [![Download for Windows](https://img.shields.io/badge/下載_Windows_版-4682B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ivorhoulker/11/releases/latest) 
 [![Download for macOS](https://img.shields.io/badge/下載_macOS_版-87CEEB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ivorhoulker/11/releases/latest)
 
-> 💡 **提示 / Note:** 點擊上方按鈕將會帶您前往最新發佈頁面。請在該頁面下載名為 `canTone-Windows-v1.0.X.exe` 或 `canTone-macOS-v1.0.X.dmg` 的檔案。
+> 💡 **提示 / Note:** 點擊上方按鈕將會帶您前往最新發佈頁面。請在該頁面下載名為 `canTone-Windows-v1.0.X.zip` 或 `canTone-macOS-v1.0.X.dmg` 的檔案。
 
 ### Windows 用戶
 
