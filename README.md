@@ -3,10 +3,18 @@
 一款專為桌面電腦設計的高效能 0243 粵語填詞工具。採用離線優先架構，提供極速搜尋體驗，隨時隨地皆可使用。
 
 
-<figure>
-  <video src="https://github.com/user-attachments/assets/ddd12e92-5708-482e-9007-5e468361dd08" width="600" 
-  height="400" autoplay loop muted playsinline></video>
-  <figcaption align="center"><i>使用 0243 聲調之搜尋介面演示。</i></figcaption>
+<figure style="height: 400px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <video 
+    src="https://github.com/user-attachments/assets/1394b5a5-eb55-4ca9-9f99-d83b82a4dd78" 
+    autoplay 
+    loop 
+    muted 
+    playsinline
+    style="height: 360px; width: auto; object-fit: contain; border-radius: 12px;"
+  ></video>
+  <figcaption align="center" style="margin-top: 8px;">
+    <i>使用 0243 聲調之搜尋介面演示。</i>
+  </figcaption>
 </figure>
 
 ## 📥 下載與安裝 / Downloads
