@@ -6,7 +6,7 @@
 <figure>
   <video src="https://github.com/user-attachments/assets/ddd12e92-5708-482e-9007-5e468361dd08" width="600" 
   height="400" autoplay loop muted playsinline></video>
-  <figcaption align="center"><i>Demonstration of the search interface with 0243 tones.</i></figcaption>
+  <figcaption align="center"><i>使用 0243 聲調之搜尋介面演示。</i></figcaption>
 </figure>
 
 ## 📥 下載與安裝 / Downloads
