@@ -4,7 +4,8 @@
 
 
 <figure>
-  <video src="https://github.com/user-attachments/assets/ddd12e92-5708-482e-9007-5e468361dd08" autoplay loop muted playsinline width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/ddd12e92-5708-482e-9007-5e468361dd08" width="600" 
+  height="400" autoplay loop muted playsinline></video>
   <figcaption align="center"><i>Demonstration of the search interface with 0243 tones.</i></figcaption>
 </figure>
 
