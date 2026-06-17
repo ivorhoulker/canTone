@@ -67,7 +67,7 @@
 
 遇到錯誤或有新功能建議嗎？我使用這個 GitHub 存放庫來追蹤社群的意見回饋。
 
-1. 請先查看 [Issues 標籤頁](https://github.com/ivorhoulker/11/issues)，確認該問題是否已被提出。
+1. 請先查看 [Issues 標籤頁](https://github.com/ivorhoulker/canTone/issues)，確認該問題是否已被提出。
 2. 若尚未有人提出，請開啟一個新的 Issue，並填寫提供的範本，以便我能妥善調查。
 
 ---
