@@ -86,3 +86,5 @@
 * **[HSK 3.0](https://github.com/elkmovie/hsk30)**：根據 [MIT](https://github.com/elkmovie/hsk30/blob/main/LICENSE) 授權條款分發。
 
 特別鳴謝 Bill（姚程馭）。若不是他不斷提出各種有趣的技術難題，我根本不會著手製作這款工具。
+
+感謝 Mili (李婉晶) 在我不確定粵語讀音時，提供隨傳隨到的即時協助。
