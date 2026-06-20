@@ -12,17 +12,20 @@
 
 ---
 
-### 🪟 Windows 用戶
+### 📱 iOS 用戶
 
-請下載 `canTone-Windows.exe` 安裝程式並執行。
+「啱音字」的 iOS 版本目前已正式登上 **Apple TestFlight** 進行公開測試！
 
-> **⚠️ 關於 Windows SmartScreen 的注意事項：** > 由於此應用程式由我獨立開發，Windows Defender 可能會將安裝程式標記為「無法辨識的應用程式」。如需繼續安裝，請在藍色的彈出視窗中點擊 **其他資訊**，然後選擇 **仍要執行**。
+* **安裝方式：** 請使用您的 iPhone 或 iPad 點擊 [TestFlight 測試連結](https://github.com/ivorhoulker/canTone)（或至 App Store 下載 TestFlight 應用程式後加入測試）。
+* 行動版本目前已全面支援手機與平版流動創作，正式版亦將於近期正式進駐 Apple App Store。
 
 ---
 
 ### 🍎 macOS 用戶
 
-我為 macOS 提供了兩種不同的安裝檔。如果您不確定您的 Mac 使用哪種晶片，請點擊螢幕左上角的 **蘋果選單 () > 關於這台 Mac** 來查看您的處理器或晶片資訊。
+「啱音字」的 Mac 正式版本即將上架 Mac App Store。現階段我們為 macOS 提供了已通過 Apple 官方數位簽章與安全公證（Notarized）的獨立安裝包，您可以直接安心下載，不會觸發系統安全攔截。
+
+如果您不確定您的 Mac 使用哪種晶片，請點擊螢幕左上角的 **蘋果選單 () > 關於這台 Mac** 來查看您的處理器或晶片資訊：
 
 * **🍎 Apple Silicon：** 如果顯示的晶片為 M1、M2、M3、M4、M5（包含 Pro、Max 或 Ultra 等型號），請下載 `canTone-AppleSilicon.dmg`。
 * **💻 Intel：** 如果顯示的處理器包含「Intel」字樣，請下載 `canTone-IntelMac.dmg`。
@@ -30,23 +33,31 @@
 **安裝步驟：**
 
 1. 雙擊已下載的 `.dmg` 檔案將其開啟。
-2. 將應用程式圖示拖曳至 **應用程式 (Applications)** 資料夾。
-
-> **⚠️ 關於 macOS Gatekeeper 的注意事項：** > 由於此應用程式目前尚未具備 Apple 開發者帳號的數位簽章，macOS 最初可能會顯示「未識別的開發者」或「檔案已損毀」等警告並攔截應用程式。若要開啟應用程式，請前往 **應用程式 (Applications)** 資料夾，**右鍵點擊（或按住 Control 點擊）** 該應用程式，選擇 **打開**，然後在確認視窗中再次點擊 **打開**。
+2. 將應用程式圖示拖曳至 **應用程式 (Applications)** 資料夾即可直接開啟使用。
 
 ---
+
+### 🪟 Windows 用戶
+
+請下載 `canTone-Windows.exe` 安裝程式並執行。
+
+> **⚠️ 關於 Windows SmartScreen 的注意事項：**
+> 由於此應用程式由我獨立開發，Windows Defender 可能會將安裝程式標記為「無法辨識的應用程式」。如需繼續安裝，請在藍色的彈出視窗中點擊 **其他資訊**，然後選擇 **仍要執行**。
+
+---
+
 
 ## 🚀 未來發展與正式版計劃
 
 「啱音字」的願景是打造一個無縫銜接的**全平台粵語創作生態**。隨著測試階段完成，本應用程式未來將會正式進駐以下平台，屆時用戶將可透過官方商店一鍵下載並獲得自動更新：
 
 * **iOS**：正式登陸 Apple App Store，全面支援 iPhone 及 iPad 手機流動創作。
-* **macOS**：進駐 Mac App Store，免去 Gatekeeper 手動解鎖步驟。
+* **macOS**：進駐 Mac App Store，免去手動下載更新步驟。
 * **Windows**：上架 Windows Microsoft Store，提供更安全的安裝與系統整合。
 
 ---
 
-*我計畫在未來的更新版本中，為 Windows 與 macOS 版本正式加入數位簽章，以徹底消除這些安全性警告。*
+*我計畫在未來的更新版本中，為 Windows 版本正式加入數位簽章，以徹底消除 Windows 的安全性警告。*
 
 <figure style="height: 400px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <video 
