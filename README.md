@@ -16,7 +16,7 @@
 
 「啱音字」的 iOS 版本目前已正式登上 **Apple TestFlight** 進行公開測試！
 
-* **安裝方式：** 請使用您的 iPhone 或 iPad 點擊 [TestFlight 測試連結](https://github.com/ivorhoulker/canTone)（或至 App Store 下載 TestFlight 應用程式後加入測試）。
+* **安裝方式：** 請使用您的 iPhone 或 iPad 點擊 [TestFlight 測試連結](https://testflight.apple.com/join/tnnDm4xB)（或至 App Store 下載 TestFlight 應用程式後加入測試）。
 * 行動版本目前已全面支援手機與平版流動創作，正式版亦將於近期正式進駐 Apple App Store。
 
 ---
@@ -41,9 +41,11 @@
 
 請下載 `canTone-Windows.exe` 安裝程式並執行。
 
-> **⚠️ 關於 Windows SmartScreen 的注意事項：**
-> 由於此應用程式由我獨立開發，Windows Defender 可能會將安裝程式標記為「無法辨識的應用程式」。如需繼續安裝，請在藍色的彈出視窗中點擊 **其他資訊**，然後選擇 **仍要執行**。
-
+> **⚠️ 關於 瀏覽器下載 與 Windows SmartScreen 的注意事項：**
+> 由於此應用程式由我獨立開發，尚未購買昂貴的微軟數位簽章，因此在下載與安裝時會觸發系統的安全提示，這屬於正常現象（本程式完全安全，不含任何惡意代碼）。請依照以下步驟順利安裝：
+> 
+> 1. **在 Edge / 瀏覽器下載時：** 若下載被攔截並顯示「無法安全下載」或「非常規下載」，請將滑鼠移到檔案上，點擊 **三個點 (...)** 圖示，選擇 **保留 (Keep)**，並在隨後的彈出視窗中點擊 **顯示更多** -> **仍然保留 (Keep anyway)**。
+> 2. **執行安裝程式時：** Windows Defender SmartScreen 可能會彈出藍色視窗並將其標記為「無法辨識的應用程式」。請點擊視窗中的 **其他資訊 (More info)**，然後點擊右下角出現的 **仍要執行 (Run anyway)** 按鈕即可開始安裝。
 ---
 
 
