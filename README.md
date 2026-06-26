@@ -24,7 +24,7 @@
 
 ### 🪟 Windows 用戶
 
-請前往本專案的 [Releases 頁面](https://www.google.com/search?q=https://github.com/ivorhoulker/canTone/releases)，下載最新的 `canTone-Windows.exe` 安裝程式並執行。
+請前往本專案的 [Releases 頁面](https://github.com/ivorhoulker/canTone/releases)，下載最新的 `canTone-Windows.exe` 安裝程式並執行。
 
 > 📢 **關於 Microsoft Store 商店版本：**
 > 我已經註冊了微軟開發者帳號，但鑑於 Windows Microsoft Store 後台與打包系統極度冗贅且缺乏合理維護，除非未來有極大量用戶強烈要求，否則**我目前沒有任何計劃上架微軟商店**。
