@@ -11,50 +11,39 @@
 
 ---
 
+Here is the finalized, streamlined text. I scrubbed out the standalone `.dmg` sections entirely and shifted the perspective strictly to "I" so it reflects you running the show solo.
+
+---
+
+## 🇭🇰 繁體中文 (Traditional Chinese - zh-HK)
+
 ### 📱 iOS 用戶
 
-「啱音字」的 iOS 版本目前已正式登上 **Apple TestFlight** 進行公開測試！
+「啱音字」的 iOS 正式版本已全面進駐 **Apple App Store**！支援手機與平板流動創作，您可以隨時隨地記錄靈感。
 
-* **安裝方式：** 請使用您的 iPhone 或 iPad 點擊 [TestFlight 測試連結](https://testflight.apple.com/join/tnnDm4xB)（或至 App Store 下載 TestFlight 應用程式後加入測試）。
-* 行動版本目前已全面支援手機與平版流動創作，正式版亦將於近期正式進駐 Apple App Store。
+* **立即下載：** 請使用您的 iPhone 或 iPad 點擊 [Apple App Store 下載連結](https://apps.apple.com/us/app/%E5%95%B1%E9%9F%B3%E5%AD%97-cantone/id6782005428) 直接安裝。
 
 ---
 
 ### 🍎 macOS 用戶
 
-「啱音字」的 Mac 正式版本即將上架 Mac App Store。現階段我們為 macOS 提供了已通過 Apple 官方數位簽章與安全公證（Notarized）的獨立安裝包，您可以直接安心下載，不會觸發系統安全攔截。
+「啱音字」的 Mac 正式版本已上架 Mac App Store，提供最安全的沙盒環境與一鍵自動更新。
 
-如果您不確定您的 Mac 使用哪種晶片，請點擊螢幕左上角的 **蘋果選單 () > 關於這台 Mac** 來查看您的處理器或晶片資訊：
-
-* **🍎 Apple Silicon：** 如果顯示的晶片為 M1、M2、M3、M4、M5（包含 Pro、Max 或 Ultra 等型號），請下載 `canTone-AppleSilicon.dmg`。
-* **💻 Intel：** 如果顯示的處理器包含「Intel」字樣，請下載 `canTone-IntelMac.dmg`。
-
-**安裝步驟：**
-
-1. 雙擊已下載的 `.dmg` 檔案將其開啟。
-2. 將應用程式圖示拖曳至 **應用程式 (Applications)** 資料夾即可直接開啟使用。
+* **立即下載：** 點擊 [Mac App Store 下載連結](https://apps.apple.com/us/app/%E5%95%B1%E9%9F%B3%E5%AD%97-cantone/id6782005428) 即可一鍵安裝。同時支援 Intel 處理器與 Apple Silicon (M1-M6) 晶片。
 
 ---
 
 ### 🪟 Windows 用戶
 
-請下載 `canTone-Windows.exe` 安裝程式並執行。
+請前往本專案的 GitHub Releases 頁面，下載 `canTone-Windows.exe` 安裝程式並執行。
 
-> **💡 提示：**
-> 我目前正在緊鑼密鼓地籌備與申請 **Windows Microsoft Store 官方商店版本**。在上架正式商店前，獨立發佈的安裝檔在下載與安裝時會觸發系統的常規安全提示，這屬於正常現象（本程式完全安全，不含任何惡意代碼）。請依照以下步驟順利安裝：
-> 
-> 1. **在 Edge / 瀏覽器下載時：** 若下載被攔截並顯示「無法安全下載」或「非常規下載」，請將滑鼠移到檔案上，點擊 **三個點 (...)** 圖示，選擇 **保留 (Keep)**，並在隨後的彈出視窗中點擊 **顯示更多** -> **仍然保留 (Keep anyway)**。
-> 2. **執行安裝程式時：** Windows Defender SmartScreen 可能會彈出藍色視窗並將其標記為「無法辨識的應用程式」。請點擊視窗中的 **其他資訊 (More info)**，然後點擊右下角出現的 **仍要執行 (Run anyway)** 按鈕即可開始安裝。
+> 📢 **關於 Microsoft Store 商店版本：**
+> 我已經註冊了微軟開發者帳號，但鑑於 Windows Microsoft Store 後台與打包系統極度冗贅且缺乏合理維護，除非未來有極大量用戶強烈要求，否則**我目前沒有任何計劃上架微軟商店**。
 
----
+由於此獨立發佈的安裝檔並未購買高昂的微軟數位簽章，下載與安裝時會觸發系統的常規安全提示（本程式完全安全，不含任何惡意代碼）。請依照以下步驟順利安裝：
 
-## 🚀 未來發展與正式版計劃
-
-「啱音字」的願景是打造一個無縫銜接的**全平台粵語創作生態**。隨著測試階段完成，本應用程式未來將會正式進駐以下平台，屆時用戶將可透過官方商店一鍵下載並獲得自動更新：
-
-* **iOS**：正式登陸 Apple App Store，全面支援 iPhone 及 iPad 手機流動創作。
-* **macOS**：進駐 Mac App Store，免去手動下載更新步驟。
-* **Windows**：上架 Windows Microsoft Store，提供更安全的安裝與系統整合。
+1. **在 Edge / 瀏覽器下載時：** 若下載被攔截並顯示「無法安全下載」或「非常規下載」，請將滑鼠移到檔案上，點擊 **三個點 (...)** 圖示，選擇 **保留 (Keep)**，並在隨後的彈出視窗中點擊 **顯示更多** -> **仍然保留 (Keep anyway)**。
+2. **執行安裝程式時：** Windows Defender SmartScreen 會彈出藍色視窗並將其標記為「無法辨識的應用程式」。請點擊視窗中的 **其他資訊 (More info)**，然後點擊右下角出現的 **仍要執行 (Run anyway)** 按鈕即可開始安裝。
 
 ---
 
