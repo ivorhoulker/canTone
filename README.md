@@ -11,12 +11,6 @@
 
 ---
 
-Here is the finalized, streamlined text. I scrubbed out the standalone `.dmg` sections entirely and shifted the perspective strictly to "I" so it reflects you running the show solo.
-
----
-
-## 🇭🇰 繁體中文 (Traditional Chinese - zh-HK)
-
 ### 📱 iOS 用戶
 
 「啱音字」的 iOS 正式版本已全面進駐 **Apple App Store**！支援手機與平板流動創作，您可以隨時隨地記錄靈感。
