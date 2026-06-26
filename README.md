@@ -2,14 +2,9 @@
 
 一款專為粵語填詞人設計的高效能 0243 粵語填詞工具。採用完全離線優先（Offline-First）架構，不論身處何地皆能提供極速、流暢的搜尋體驗。
 
-*請注意：本應用程式目前處於公開測試階段（Public Beta），可能仍存在些許錯誤或不穩定之處。感謝您的包容與試用！*
-## 📥 下載與安裝（測試版）
-
-點擊下方按鈕即可前往最新發佈頁面下載測試版本：
-
-> 💡 **提示：** 進入發佈頁面後，Windows 用戶請下載 `canTone-Windows.exe`；Mac 用戶則請根據您的晶片型號下載對應的 `.dmg` 檔案（詳見下方對照說明）。
-
 ---
+
+## 📥 下載與安裝
 
 ### 📱 iOS 用戶
 
@@ -29,7 +24,7 @@
 
 ### 🪟 Windows 用戶
 
-請前往本專案的 GitHub Releases 頁面，下載 `canTone-Windows.exe` 安裝程式並執行。
+請前往本專案的 [Releases 頁面](https://www.google.com/search?q=https://github.com/ivorhoulker/canTone/releases)，下載最新的 `canTone-Windows.exe` 安裝程式並執行。
 
 > 📢 **關於 Microsoft Store 商店版本：**
 > 我已經註冊了微軟開發者帳號，但鑑於 Windows Microsoft Store 後台與打包系統極度冗贅且缺乏合理維護，除非未來有極大量用戶強烈要求，否則**我目前沒有任何計劃上架微軟商店**。
@@ -39,23 +34,9 @@
 1. **在 Edge / 瀏覽器下載時：** 若下載被攔截並顯示「無法安全下載」或「非常規下載」，請將滑鼠移到檔案上，點擊 **三個點 (...)** 圖示，選擇 **保留 (Keep)**，並在隨後的彈出視窗中點擊 **顯示更多** -> **仍然保留 (Keep anyway)**。
 2. **執行安裝程式時：** Windows Defender SmartScreen 會彈出藍色視窗並將其標記為「無法辨識的應用程式」。請點擊視窗中的 **其他資訊 (More info)**，然後點擊右下角出現的 **仍要執行 (Run anyway)** 按鈕即可開始安裝。
 
----
-
 *我計畫在未來的更新版本中，為 Windows 版本正式加入數位簽章，以徹底消除 Windows 的安全性警告。*
 
-<figure style="height: 400px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <video 
-    src="https://github.com/user-attachments/assets/56d72caf-0971-4823-8006-fb016ed4945d" 
-    autoplay 
-    loop 
-    muted 
-    playsinline
-    style="height: 360px; width: auto; object-fit: contain; border-radius: 12px;"
-  ></video>
-  <figcaption align="center" style="margin-top: 8px;">
-    <i>使用 0243 聲調之搜尋介面演示。</i>
-  </figcaption>
-</figure>
+---
 
 ## 🚀 核心功能
 
@@ -78,6 +59,8 @@
 ## ⚖️ 授權條款
 
 本應用程式屬專有軟體（Proprietary software），保留所有權利。您可以下載並將本軟體用於個人用途。
+
+---
 
 ## 🙏 資料來源與鳴謝
 
