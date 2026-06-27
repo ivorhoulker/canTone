@@ -66,10 +66,15 @@
 
 本應用程式整合了來自以下專案的資料：
 
+> **免責聲明：** 本應用程式是一款 100% 免費的非商業教育工具。我們絕不會利用本程式或其底層數據牟利。
+
 * **[words.hk (粵典)](https://words.hk)**：根據 [非商業開放資料授權條款](https://words.hk/base/hoifong/) 發佈。
+* **[Academia Sinica (Chinese WordNet / Sinica Corpus)](https://lopentu.github.io/CwnWeb/)**：根據 [CC BY-NC-SA 3.0 TW](https://creativecommons.org/licenses/by-nc-sa/3.0/tw/) 及 [Open WordNet 授權條款](http://wordnet.cs.princeton.edu/downloads.html) 發佈。
+* **[Rime Cantonese (中州韻粵語拼音方案)](https://github.com/rime/rime-cantonese)**：根據 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 及 [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1.0/) 授權條款發佈。
 * **[Unicode 與 Unihan](https://www.unicode.org/charts/unihan.html)**：Copyright © 1991-Present Unicode, Inc. 根據 [Unicode 版權使用條款](https://www.unicode.org/copyright.html) 及 [Unicode 資料授權條款](https://www.unicode.org/license.txt) 分發。
 * **[Kaifangcidian (開放詞典)](https://kaifangcidian.com/yue/)**：根據 [創用 CC 姓名標示 3.0 未本地化版本](https://creativecommons.org/licenses/by/3.0/deed.en) 授權條款分發。
 * **[HSK 3.0](https://github.com/elkmovie/hsk30)**：根據 [MIT](https://github.com/elkmovie/hsk30/blob/main/LICENSE) 授權條款分發。
+* **HIT-IRLab Tongyici Cilin (哈工大社會計算與信息檢索研究中心同義詞詞林擴展版)**：僅限學術研究及非商業用途。
 
 特別鳴謝 Bill（姚程馭）。若不是他不斷提出各種有趣的技術難題，我根本不會著手製作這款工具。
 
