@@ -76,6 +76,8 @@
 * **[HSK 3.0](https://github.com/elkmovie/hsk30)**：根據 [MIT](https://github.com/elkmovie/hsk30/blob/main/LICENSE) 授權條款分發。
 * **HIT-IRLab Tongyici Cilin (哈工大社會計算與信息檢索研究中心同義詞詞林擴展版)**：僅限學術研究及非商業用途。
 
+有關O二四三填詞法，可參閱黃志華著作。
+
 特別鳴謝 Bill（姚程馭）。若不是他不斷提出各種有趣的技術難題，我根本不會著手製作這款工具。
 
 感謝 Mili（李婉晶）在我不確定粵語讀音時，提供隨傳隨到的即時協助。
