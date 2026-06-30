@@ -55,7 +55,7 @@
                 <span>&middot;</span>
                 <a href="https://apps.apple.com/us/app/%E5%95%B1%E9%9F%B3%E5%AD%97-cantone/id6782005428" class="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors">macOS</a>
                 <span>&middot;</span>
-                <a href="#windows-placeholder" class="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors">Windows</a>
+                <a href="https://apps.microsoft.com/detail/9njn0gpxmnrv" class="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors">Windows</a>
             </div>
         </div>
     </header>
@@ -182,7 +182,7 @@
             const text = document.getElementById('smart-download-text');
 
             if (/win/.test(userAgent)) {
-                btn.href = "#windows-placeholder";
+                btn.href = "https://apps.microsoft.com/detail/9njn0gpxmnrv";
                 text.textContent = "Download for Windows";
             } else if (/mac/.test(userAgent) && !/iphone|ipad|ipod/.test(userAgent)) {
                 btn.href = "https://apps.apple.com/us/app/%E5%95%B1%E9%9F%B3%E5%AD%97-cantone/id6782005428";

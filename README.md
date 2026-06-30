@@ -24,17 +24,9 @@
 
 ### 🪟 Windows 用戶
 
-請前往本專案的 [Releases 頁面](https://github.com/ivorhoulker/canTone/releases)，下載最新的 `canTone-Windows.exe` 安裝程式並執行。
+「啱音字」的 Windows 正式版本現已登陸 **Microsoft Store**，提供安全便捷的一鍵安裝與自動更新體驗。
 
-> 📢 **關於 Microsoft Store 商店版本：**
-> 我已經註冊了微軟開發者帳號，但鑑於 Windows Microsoft Store 後台與打包系統極度冗贅且缺乏合理維護，除非未來有極大量用戶強烈要求，否則**我目前沒有任何計劃上架微軟商店**。
-
-由於此獨立發佈的安裝檔並未購買高昂的微軟數位簽章，下載與安裝時會觸發系統的常規安全提示（本程式完全安全，不含任何惡意代碼）。請依照以下步驟順利安裝：
-
-1. **在 Edge / 瀏覽器下載時：** 若下載被攔截並顯示「無法安全下載」或「非常規下載」，請將滑鼠移到檔案上，點擊 **三個點 (...)** 圖示，選擇 **保留 (Keep)**，並在隨後的彈出視窗中點擊 **顯示更多** -> **仍然保留 (Keep anyway)**。
-2. **執行安裝程式時：** Windows Defender SmartScreen 會彈出藍色視窗並將其標記為「無法辨識的應用程式」。請點擊視窗中的 **其他資訊 (More info)**，然後點擊右下角出現的 **仍要執行 (Run anyway)** 按鈕即可開始安裝。
-
-*我計畫在未來的更新版本中，為 Windows 版本正式加入數位簽章，以徹底消除 Windows 的安全性警告。*
+* **立即下載：** 點擊 [Microsoft Store 下載連結](https://apps.microsoft.com/detail/9njn0gpxmnrv) 即可直接安裝。
 
 ---
 
